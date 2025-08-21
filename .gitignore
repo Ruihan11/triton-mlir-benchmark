@@ -1,4 +1,5 @@
 # Python bytecode and caches
 __pycache__/
-results/*
-wikitext/*
+results/
+wikitext/
+visualizations/
